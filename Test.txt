@@ -1,2 +1,2 @@
 new updated test file
-new line
+new line added
